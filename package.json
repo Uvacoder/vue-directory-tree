@@ -21,7 +21,7 @@
     "vue-template-compiler": "^2.5.13"
   },
   "engines": {
-    "node": "9.x"
+    "node": "14.x"
   },
   "browserslist": [
     "> 1%",
